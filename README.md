@@ -6,3 +6,5 @@
 ## Second program takes user input (number) line by line saves biggest number given  by user and terminates when user enter "end" then prints biggest number.
 
 ## Third program takes optional directory argument if it is given checks the directory and deletes empty files in the directory. If there is not any argument checks the current directory and deletes empty filex in the directory.
+
+### You can check also the report for usage or applications of the code.
